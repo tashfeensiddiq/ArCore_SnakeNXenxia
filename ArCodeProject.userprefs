@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SceneController\SceneController.cs">
+    <Files>
+      <File FileName="Assets\SceneController\SceneController.cs" Line="33" Column="52" />
+      <File FileName="Assets\SceneController\TrackedPlaneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\SceneController\ScoreboardController.cs" Line="102" Column="1" />
+      <File FileName="Assets\SceneController\SnakeController.cs" Line="95" Column="3" />
+      <File FileName="Assets\SceneController\FoodController.cs" Line="50" Column="3" />
+      <File FileName="Assets\SceneController\FoodConsumer.cs" Line="27" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Admin\Desktop\ArCodeProject\Assets\GoogleARCore\SDK\Scripts\AndroidPermissionsRequestResult.cs" line="36" column="1" />
+      <Breakpoint file="C:\Users\Admin\Desktop\ArCodeProject\Assets\GoogleARCore\SDK\Scripts\AndroidPermissionsRequestResult.cs" line="38" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
